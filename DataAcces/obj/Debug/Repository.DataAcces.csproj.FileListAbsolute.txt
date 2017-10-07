@@ -1,0 +1,11 @@
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\DataAcces.dll.config
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\DataAcces.dll
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\DataAcces.pdb
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\EntityFramework.dll
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\EntityFramework.xml
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\obj\Debug\Repository.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\obj\Debug\DataAcces.dll
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\obj\Debug\DataAcces.pdb
+C:\Users\Amila-Lap\Desktop\Repo\Repository\DataAcces\obj\Debug\Repository.DataAcces.csprojResolveAssemblyReference.cache
